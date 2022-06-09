@@ -1,1 +1,1 @@
-# ECE228-GAN-based-EEG-signal-generation
+# GAN-based EEG Signal Generation
