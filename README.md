@@ -37,8 +37,8 @@ python setup_VAE.py
 
 * Important parameter
 ```bash
-flag = 1;   % subjectA
-flag = 0;   % subjectB
+flag = 1    % subjectA
+flag = 0    % subjectB
 ```
 
 * Plot Figures
