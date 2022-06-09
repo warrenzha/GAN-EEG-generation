@@ -1,5 +1,6 @@
-pytorch (CUDA available)
+pytorch
 numpy
 scipy
 matplotlib
 winsound
+pytorch_fid
