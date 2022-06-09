@@ -1,6 +1,6 @@
 # GAN-based EEG Signal Generation
 
-Wenyuan Zhao, Lindong Ye, Ziyan Cui
+_Wenyuan Zhao, Lindong Ye, Ziyan Cui_
 
 This repo provides code for implementing [GAN-based EEG Signal Generation](https://github.com/wyzhao030/WGAN-GP/blob/main/GAN-based_algorithm_for_EEG_signals.pdf).
 
