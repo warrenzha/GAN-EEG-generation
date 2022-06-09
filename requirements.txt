@@ -1,0 +1,5 @@
+pytorch (CUDA available)
+numpy
+scipy
+matplotlib
+winsound
