@@ -39,7 +39,10 @@ python setup_VAE.py
 ```bash
 flag = 1    % subjectA
 flag = 0    % subjectB
-filename = "GAN_fakeA_04-30-23-39"     % filename is named by the time you run the code. Change "04-30-23-39" for necessity.
+filename1 = "GAN_fakeA_04-30-23-39.npy"     % filename is named by the time you run the code 
+filename = "targetoutA_8channels.txt"       % Change "04-30-23-39" for necessity
+filenameD = "DlossA_04-30-23-39.npy"
+filenameG = "GlossA_04-30-23-39.npy"
 ```
 
 * Plot Figures
