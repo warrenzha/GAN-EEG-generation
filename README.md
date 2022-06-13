@@ -39,6 +39,7 @@ python setup_VAE.py
 ```bash
 flag = 1    % subjectA
 flag = 0    % subjectB
+filename = "GAN_fakeA_04-30-23-39"     % filename is named by the time you run the code. Change "04-30-23-39" for necessity.
 ```
 
 * Plot Figures
